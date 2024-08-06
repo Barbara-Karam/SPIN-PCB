@@ -1,0 +1,15 @@
+Added Component: Designator=Amplifier(ONSC-TO-92-3-29-11)
+Add Pin To Net: Unknown Pin: Pin Amplifier-1
+Add Pin To Net: Unknown Pin: Pin Amplifier-2
+Add Pin To Net: Unknown Pin: Pin Amplifier-3
+Added Member To Class: ClassName=Sheet1 Member=Component Amplified output Header 2
+Add Class Member: Failed to add class member : Component Amplifier BC547B
+Added Member To Class: ClassName=Sheet1 Member=Component C1 Cap Pol1
+Added Member To Class: ClassName=Sheet1 Member=Component C2 Cap Pol1
+Added Member To Class: ClassName=Sheet1 Member=Component C3 Cap Pol1
+Added Member To Class: ClassName=Sheet1 Member=Component R1
+Added Member To Class: ClassName=Sheet1 Member=Component R2
+Added Member To Class: ClassName=Sheet1 Member=Component RC
+Added Member To Class: ClassName=Sheet1 Member=Component RE
+Added Member To Class: ClassName=Sheet1 Member=Component SIgnal Input Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component  Header 2
