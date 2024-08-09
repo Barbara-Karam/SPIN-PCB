@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetC4_1 Pin=IC27812-1
+Removed Pin From Net: NetName=GND Pin=IC27812-2
+Removed Pin From Net: NetName=12V Vout Pin=IC27812-3
+Removed Member From Class: ClassName=Sheet1 Member=IC27812
+Added Component: Designator=VR1(D2PAK_N)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline Package 2.54 mm Pitch, 15.1 mm Lead Span"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "D2PAK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC4_1 Pin=VR1-1
+Added Pin To Net: NetName=GND Pin=VR1-2
+Added Pin To Net: NetName=12V Vout Pin=VR1-3
+Added Member To Class: ClassName=Sheet1 Member=Component VR1 Volt Reg
